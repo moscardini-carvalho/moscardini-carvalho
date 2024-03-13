@@ -1,0 +1,352 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portifólio</title>
+
+    <!-- ESTILIZAÇÃO DA PÁGINA -->
+
+    <style>
+        #ícone {
+            width: 100px;
+            height: 100px;
+            border-radius: 50%;
+            margin-right: 20px;
+            border: 5px;
+            border-color: black;
+            border-style: solid;
+        }
+
+        h1 {
+            text-shadow: -3px 0 black, 0 3px black, 3px 0 black, 0 -3px black
+        }
+
+        p {
+            text-shadow: -3px 0 black, 0 3px black, 3px 0 black, 0 -3px black
+        }
+
+        #menu1 {
+            border: 5px solid black;
+        }
+
+        #programador-2 {
+            margin-right: 50px;
+            border: 5px;
+            border-color: black;
+            border-style: solid;
+            margin-left:100px;
+        }
+
+        #plano-de-fundo {
+            background-image: url(./imagens/plano\ de\ fundo.jpg);
+        }
+
+        #ret-galeria {
+            border: 5px;
+            border-color: black;
+            border-style: solid;
+            margin-top: 10px;
+        }
+
+        #inicio {
+
+            /* Azul */
+            background-color: #0592DA;
+            border: none;
+            padding: 15px 5px;
+            text-align: center;
+            text-decoration: none;
+            font-size: 16px;
+            border: 5px;
+            border-color: black;
+            border-style: solid;
+            margin: 100px;
+
+
+
+        }
+
+        #sobre-mim {
+            /* Azul */
+            background-color: #0592DA;
+            border: none;
+            padding: 15px 5px;
+            text-align: center;
+            text-decoration: none;
+            font-size: 16px;
+            border: 5px;
+            border-color: black;
+            border-style: solid;
+            margin: 200px;
+        }
+
+        #galeria {
+            /* Azul */
+            background-color: #0592DA;
+            padding: 15px 5px;
+            text-align: center;
+            text-decoration: none;
+            font-size: 16px;
+            border: 5px;
+            border-color: black;
+            border-style: solid;
+            margin: 300px;
+        }
+
+        #meios-de-contato {
+            /* Azul */
+            background-color: #0592DA;
+            padding: 15px 5px;
+            text-align: center;
+            text-decoration: none;
+            font-size: 16px;
+            border: 5px;
+            border-color: black;
+            border-style: solid;
+            margin: 400px;
+        }
+
+        #galeria2 {
+            border: 5px;
+            border-color: black;
+            border-style: solid;
+            margin-top: 10px;
+        }
+
+        #bola-1 {
+            border: 5px;
+            border-color: black;
+            border-style: solid;
+            margin-top: 10px;
+            margin-left: -10px;
+        }
+
+        #bola-2 {
+            border: 5px;
+            border-color: black;
+            border-style: solid;
+            margin-top: 10px;
+        }
+
+        #bola-3 {
+            position: absolute;
+            right: 0;
+            margin-right: 450px;
+            margin-top: 15px;
+        }
+
+        #sobre-mim-2 {
+            border: 5px;
+            border-color: black;
+            border-style: solid;
+            margin-top: 10px;
+        }
+
+        #desc-sm-2 {
+            border: 5px;
+            border-color: black;
+            border-style: solid;
+            margin-top: 10px;
+        }
+
+        #retan-contato {
+            border: 5px;
+            border-color: black;
+            border-style: solid;
+            margin-top: 10px;
+        }
+
+        #programador-3 {
+            margin-right: 100px;
+            border: 5px;
+            border-color: black;
+            border-style: solid;
+            margin-left: 300px;
+            margin: auto;
+        }
+
+        #tabela{
+            text-align: center;
+        }
+
+        #e-mail{
+            text-shadow: -3px 0 black, 0 3px black, 3px 0 black, 0 -3px black
+        }
+
+        #contato{
+            font-size: 15pt;
+        }
+
+        #fatec{
+            font-size: 15pt;
+        }
+    </style>
+</head>
+
+<body id="plano-de-fundo" bgcolor="#FFF185" style="color: white; font-family: Verdana;">
+    <table id="menu1" border="0" width="1300" height="500" align="center" cellspacing="4" cellpadding="7"
+        bgcolor="#FFF185">
+        <tr height-"50">
+            <td width="580"> <img id="ícone" src="imagens/eu.jpg" width="50" alt="NAME">
+            </td>
+
+            <!-- Formatação do MENU -->
+
+            <td id="inicio" align="center">
+                <a href="file:///C:/Users/1091392413018/Desktop/Primeiro%20Site%20HTML/imagens/index.html"
+                    title="Início"><button class="button"
+                        style="width: 150; height: 50;border: 0; background-color:#0592DA; color: white;"><b><big>INÍCIO</big></b></button></a>
+            </td>
+
+            <td id="sobre-mim" align="center" width="150"><a href="#aboutus" title="Sobre Mim"><button class="button"
+                        style="width: 100;height: 30;background-color: 
+                #0592DA;border: 0;color: white"><b><big>SOBRE MIM</big></b></button></a>
+            </td>
+
+            <td id="galeria" align="center" width="150"><a href="#gallery" title="Galeria"><button class="button" style="width: 100;height: 30;background-color: 
+                #0592DA;border: 0;color: white"><b><big>GALERIA</big></b></button></a>
+            </td>
+
+            <td id="meios-de-contato" align="center" width="150"><a href="#contactus" title="Meios de Contato"><button
+                        class="button" style="width: 100;height: 30;background-color: 
+                #0592DA;border: 0;color: white"><b><big>MEIOS DE CONTATO</big></b></button></a>
+            </td>
+        </tr>
+
+        <!-- Formatação do nome do SITE -->
+
+        </td>
+        <tr height="200" width="1300" rowspan="8">
+            <td width="1300" colspan="9" align="center">
+                <h1 style="align: center"><big><big><big><b>Full-Stack Developer and Designer</b></big></big></big></h1>
+                <p style="align: center; font-size: 22px;"></big></big></big><b>Eu desenvolvo e crio alguns simples
+                        códigos e faço algumas
+                        artes simples</b></big></big></big></p>
+
+            </td>
+
+        </tr>
+
+        <tr>
+            <td id="tabela" width="5000%" height="400">
+                <img id="programador-2" src="imagens/programador 2.jpg" align="center" width="250px" height="250px">
+                <img id="programador-3" src="imagens/programador 3.png" align="center" width="250px" height="250px"> 
+        </tr>
+
+    </table>
+
+    <!-- Formatação da GALERIA -->
+
+    <div id="gallery">
+        <table id="ret-galeria" border="0" width="1300" height="100" align="center" bgcolor="#FFF185">
+            <tr>
+                <td>
+                    <center>
+                        <p
+                            style="width: 250; height: 30; border: 0; color: white; font-family: verdana; font-size: 20px">
+                            <big></big><b>GALERIA DE PROJETOS</b></big></big>
+                        </p>
+                    </center>
+                </td>
+
+            </tr>
+        </table>
+
+        <table id="galeria2" style="border: 1; border-collapse: collapse" width="1300" height="540" align="center"
+            bgcolor="white" align="center" border-collapse="collapse">
+
+            <tr>
+                <td id="bola-1" align="center" width="400" height="500"><img src="imagens/luz canto inf. esq.jpg"
+                        width="400" height="500" title="1° trabalho de sombras em esferas">
+                </td>
+                <td id="bola-2" align="center" rowspan="2" width="250" height="500"><img
+                        src="imagens/luz canto sup. der 2.jpg" width="450" height="500"
+                        title="2° trabalho de sombras em esferas">
+                </td>
+                <td id="bola-3" align="center" rowspan="2" width="250" height="500"><img
+                        src="imagens/luz canto sup. dir.png" width="400" height="500"
+                        title="3° trabalho de sombras em esferas">
+                </td>
+            </tr>
+        </table>
+    </div>
+
+    <!-- Formatação do SOBRE NÓS -->
+
+    <div id="aboutus">
+        <table id="sobre-mim-2" border="0" width="1300" height="100" align="center" bgcolor="#FFF185">
+            <tr>
+                <td>
+                    <center>
+                        <p
+                            style="width: 250; height: 30; border: 0; color: white; font-family: verdana; font-size: 15px">
+                            <big><big><b>SOBRE MIM</b></big></big>
+                        </p>
+                    </center>
+                </td>
+            </tr>
+        </table>
+
+        <table id="desc-sm-2" border="0" width="1300" height="500" align="center" bgcolor="#FFF185">
+            <tr>
+                <td rowspan="2" width="500" height="600" align="right" bgcolor="#FFF185"></td>
+                <td width="1300" height="500">
+                    <p style="font-family: verdana; color: white; font-size: 25px">
+                        <big>Olá, meu nome é João Pedro, tenho 19 anos e estou começando na área de T.I do extremo zero
+                            e estou cursando DSM na Fatec. Conforme vou avançando no curso, postarei todos os meus
+                            projetos
+                            aqui a fim de criar um portifólio sólido e com o passar do tempo, atualizar o site em
+                            si.</big>
+                    </p>
+                </td>
+                <td align="center" width="700" height="500"><img src="imagens/programador.png" width="500" height="500">
+                </td>
+            </tr>
+        </table>
+    </div>
+
+    <!-- Formatação do CONTATO -->
+    <div id="contactus">
+
+        <table id="retan-contato" border="0" width="1300" height="100" align="center" bgcolor="#FFF185">
+            <tr>
+                <td>
+                    <center>
+                        <p style="width: 250; height: 100; border: 0; color: white; font-family: verdana;">
+                            <big><big><b>MEIOS DE CONTATO</b></big></big>
+                        </p>
+                    </center>
+                </td>
+            </tr>
+        </table>
+        <table border="0" width="1300" height="100" align="center" bgcolor="#FFF185">
+            <tr>
+                <td id="contato">
+
+                    <h4 id="e-mail" align="center"><b>E-mail:</b></h4>
+                    <p align="center">moscardinicarvalho1234@gmail.com</p>
+                    <p align="center">Whatasapp:</p>
+                    <p align="center">(016) 98100-0548</p>
+                    <p align="center" width="50">
+                </td>
+
+                <td>
+                    <a href="https://twitter.com" title="Twitter"><img src="imagens/twitter.png" width="40"
+                            height="40"></a>
+                    <a href="https://www.facebook.com/joaopedro.moscardinicarvalho.1/" title="Facebook"><img
+                            src="imagens/facebook.png" width="40" height="40"></a>
+                    <a href="https://www.instagram.com/joao.pedro.moscardini/" title="Instagram"><img
+                            src="imagens/instagram.png" width="40" height="40"></a>
+                    <a href="https://www.youtube.com" title="Youtube"><img src="imagens/youtube.png" width="40"
+                            height="40"></a>
+                    </p>
+                    <p id="fatec" align="center" style="color: white;">© 2024 FATEC</p>
+                </td>
+            </tr>
+        </table>
+    </div>
+</body>
+
+</html>
