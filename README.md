@@ -7,6 +7,8 @@
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/qr/KU2ELD5TQFPCH1)
 
 ![João Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=moscardini-carvalho&show_icons=true&theme=tokyonight)
+![João Pedro's stats](https://github-readme-stats.vercel.app/api/top-langs/?username=moscardini-carvalho&theme=blue-green)
+
 
 ## Tecnologias que utilizo no meu dia
 
