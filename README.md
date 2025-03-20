@@ -28,11 +28,11 @@
   
 - 🎮 Apaixonado por programação e games 
 
-- 🎸 Nas horas vagas, jogo bola
+- ⚽️ Nas horas vagas, jogo bola
 
 - 🌱 Atualmente aprofundando conhecimentos em PHP e banco de dados não relacional  
 
-- 👯 Aberto para colaborar em projetos open-source  
+- 👥 Aberto para colaborar em projetos open-source  
 
 - 💻 VS Code + Extensões Personalizadas
 
