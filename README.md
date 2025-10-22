@@ -21,7 +21,7 @@
 <p align="left">
   Desenvolvedor Front e Back-End,
   especializando em Web e sempre em busca de novos desafios.<br><br>
-  Cursando Desenvolvimento de Software Multiplataforma na FATEC Dr. Thomaz Novelino, atualmente no 3 semestre
+  Cursando Desenvolvimento de Software Multiplataforma na FATEC Dr. Thomaz Novelino, atualmente no 4° semestre
 
   <br>
   <br>
@@ -30,7 +30,7 @@
 
 - ⚽️ Nas horas vagas, jogo bola
 
-- 🌱 Atualmente aprofundando conhecimentos em PHP e banco de dados não relacional  
+- 🌱 Atualmente aprofundando conhecimentos em JavaScript e React-Native  
 
 - 👥 Aberto para colaborar em projetos open-source  
 
@@ -50,25 +50,11 @@
 
 ### 🛠️ Tech Stack
     
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,nodejs,mysql,mongodb,python,php)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,nodejs,mysql,mongodb,python,react)](https://skillicons.dev)
 
 
 ###  📊 Contribuições
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=moscardini-carvalho&theme=dracula&row=1" height="150" alt="trophy graph"  />
-</div>
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/agostinhomarcia/count.svg" alt="Visitor Counter"  />
-</div>
-
-<div align="center">
-  <h3>
-    Obrigado pela visita! 😎
-  </h3>
-</div>
-
-<div align="center">
-     <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3ZiczA0N3dvcGYzcnlyeXFlcHcxN3E4YWhydHN5Y2k0bG11YTNybyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Sg1JlzElDoSvXFNBEi/giphy.gif" width="300px" align="center">
 </div>
